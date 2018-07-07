@@ -1,0 +1,12 @@
+{
+  "name": "playground-dangerjs",
+  "version": "0.0.0",
+  "description": "A playground for Danger JS",
+  "main": "index.js",
+  "repository": "git@github.com:ivan-ha/playground-dangerjs.git",
+  "author": "Ivan HA <hangolam@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "danger": "^3.7.19"
+  }
+}
